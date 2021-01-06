@@ -137,6 +137,14 @@ electron-react-typescript-base-proj/
 | - webpack.config.js   //- Webpack config
 ```
 
+## VSCode
+To use this package with VSCode, all that's needed is to build (Ctrl+Shift+B) and debug (F5).
+It's a good idea to install this extension:
+
+[![Visual Studio Marketplace](http://vsmarketplacebadge.apphb.com/version/eamodio.tsl-problem-matcher.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.tsl-problem-matcher)
+
+It enables problems uncovered by the build watcher to be accessible in the Problems pane.
+
 ## Author
 [Wing Chau](https://github.com/iamWing) [@Devtography](https://github.com/Devtography)
 
