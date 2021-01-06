@@ -62,6 +62,7 @@
       "rules": {
         // This rule is already covered by the TypeScript compiler.
         "import/default": "off",
+        "linebreak-style": "off",
         // This rule is already covered by the TypeScript compiler.
         "import/no-unresolved": "off",
         "no-use-before-define": "off",
